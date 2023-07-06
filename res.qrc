@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>C:/Users/50162/Pictures/qt/1.png</file>
+        <file>C:/Users/50162/Pictures/qt/2.png</file>
+        <file>C:/Users/50162/Pictures/qt/3.png</file>
+        <file>C:/Users/50162/Pictures/qt/book.ico</file>
+    </qresource>
+</RCC>
